@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* hey you
+* what yor're doing
